@@ -1,0 +1,11 @@
+* {
+  margin: 0;
+}
+
+div {
+  position: fixed;
+  width: 200px;
+  height: 200px;
+  background-color: #000;
+  cursor: pointer;
+}
